@@ -1,5 +1,5 @@
 # object-detection
-starting...
+
 
 in order to download darknet_ros package:
 	cd catkin_ws/src
