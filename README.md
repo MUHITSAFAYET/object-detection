@@ -1,5 +1,5 @@
 # object-detection
-
+#this version is slightly manipulated version from leggedrobotics[git@github.com:leggedrobotics/darknet_ros.git] 
 
 in order to download darknet_ros package:
 	cd catkin_ws/src
